@@ -31,5 +31,4 @@ Mobile-Events-API/
 │   └── delete.php        # DELETE - Remove event
 ├── config.php            # Database credentials & settings
 ├── database.php          # Database connection & PDO instance
-├── .htaccess             # (optional) URL rewriting & security headers
 └── README.md
